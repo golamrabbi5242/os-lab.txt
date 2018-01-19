@@ -1,0 +1,9 @@
+basic then
+ factorial,
+fibonacce,
+linear and binary search,
+fcfs,
+priority,
+roundrobin,
+sjf,
+summation of number like 1234.
